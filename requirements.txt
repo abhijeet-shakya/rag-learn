@@ -30,3 +30,4 @@ langchain-google-genai
 langchain_classic
 langchain-experimental
 rank_bm25
+wikipedia
